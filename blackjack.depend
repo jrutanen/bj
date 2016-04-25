@@ -1,4 +1,5 @@
 # depslib dependency file v1.0
+<<<<<<< HEAD
 1460011241 source:c:\users\ejanrut\development\dojo\blackjack\src\deck.cpp
 	"Deck.h"
 	<iostream>
@@ -6,11 +7,20 @@
 	<cstdlib>
 
 1460011290 c:\users\ejanrut\development\dojo\blackjack\include\deck.h
+=======
+1459948313 source:c:\users\ejanrut\development\dojo\blackjack\main.cpp
+	<iostream>
+	"Deck.h"
+	"Card.h"
+
+1459949261 c:\users\ejanrut\development\dojo\blackjack\include\deck.h
+>>>>>>> 517edaa29116b62582332267df104cfb03f853a2
 	"Card.h"
 	<vector>
 
 1459948790 c:\users\ejanrut\development\dojo\blackjack\include\card.h
 
+<<<<<<< HEAD
 1460990884 source:c:\users\ejanrut\development\dojo\blackjack\main.cpp
 	<iostream>
 	"Deck.h"
@@ -24,4 +34,9 @@
 	<vector>
 	<string>
 	"Card.h"
+=======
+1459948620 source:c:\users\ejanrut\development\dojo\blackjack\src\deck.cpp
+	"Deck.h"
+	<iostream>
+>>>>>>> 517edaa29116b62582332267df104cfb03f853a2
 

@@ -11,11 +11,8 @@ class Deck
         virtual ~Deck();
         std::vector<Card> GetCards();
         void Shuffle();
-<<<<<<< HEAD
         void ShowCards();
         Card GetTopCard();
-=======
->>>>>>> 517edaa29116b62582332267df104cfb03f853a2
     protected:
 
     private:

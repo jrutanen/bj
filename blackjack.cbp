@@ -36,10 +36,15 @@
 		</Compiler>
 		<Unit filename="include/Card.h" />
 		<Unit filename="include/Deck.h" />
+<<<<<<< HEAD
 		<Unit filename="include/Player.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="src/Deck.cpp" />
 		<Unit filename="src/Player.cpp" />
+=======
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Deck.cpp" />
+>>>>>>> 517edaa29116b62582332267df104cfb03f853a2
 		<Extensions>
 			<code_completion />
 			<envvars />
