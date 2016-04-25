@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1460011241 source:c:\users\ejanrut\development\dojo\blackjack\src\deck.cpp
+	"Deck.h"
+	<iostream>
+	<ctime>
+	<cstdlib>
+
+1460011290 c:\users\ejanrut\development\dojo\blackjack\include\deck.h
+	"Card.h"
+	<vector>
+
+1459948790 c:\users\ejanrut\development\dojo\blackjack\include\card.h
+
+1460990884 source:c:\users\ejanrut\development\dojo\blackjack\main.cpp
+	<iostream>
+	"Deck.h"
+	"Card.h"
+	"Player.h"
+
+1460043235 source:c:\users\ejanrut\development\dojo\blackjack\src\player.cpp
+	"Player.h"
+
+1460991006 c:\users\ejanrut\development\dojo\blackjack\include\player.h
+	<vector>
+	<string>
+	"Card.h"
+
